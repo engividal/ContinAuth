@@ -42,7 +42,7 @@ ACTIVITY_FILE_COLUMNS = [
     "content_id",
 ]
 
-DATA_FILES = ["Accelerometer.csv", "Gyroscope.csv", "Magnetometer.csv"]
+DATA_FILES = ["Accelerometer.csv"]
 DATA_FILE_COLUMNS = [
     "sys_time",
     "event_time",
