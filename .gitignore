@@ -109,3 +109,4 @@ venv.bak/
 # Data Files with large space
 data/
 notebooks/output/
+reports/figures
